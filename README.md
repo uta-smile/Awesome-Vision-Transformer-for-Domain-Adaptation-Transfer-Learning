@@ -1,6 +1,6 @@
 # Awesome-Vision-Transformer-for-Domain-Adaptation-Transfer-Learning
 
-(arXiv 2021.08) TVT: Transferable Vision Transformer for Unsupervised Domain Adaptation [[Paper]](https://arxiv.org/abs/2108.05988) [[Code]](https://github.com/uta-smile/TVT) [ViT-B/16, Swin-T, Swin-S]
+(arXiv 2021.08) TVT: Transferable Vision Transformer for Unsupervised Domain Adaptation [[Paper]](https://arxiv.org/abs/2108.05988) [[Code]](https://github.com/uta-smile/TVT) \[ViT-B/16\]
 
 (ICLR 2022) CDTrans: Cross-domain Transformer for Unsupervised Domain Adaptation [[Paper]](https://arxiv.org/abs/2109.06165) [[Code]](https://github.com/CDTrans/CDTrans) [DeiT-S, DeiT-B]
 
